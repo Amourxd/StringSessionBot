@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/Xdarnav/StringSessionBot",
+  "repository": "https://github.com/Amourxd/StringSessionBot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -49,8 +49,8 @@
     },
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "https://t.me/link_copied"
     }
   }
 }
