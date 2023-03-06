@@ -51,6 +51,11 @@
       "description": "Add username/id of a channel/group",
       "required": true,
       "value": "https://t.me/link_copied"
+    },
+    "MUST_JOIN": {
+      "description": "Add username/id of a channel/group",
+      "required": true,
+      "value": "https://t.me/Op_Arnav_Singh"
     }
   }
 }
